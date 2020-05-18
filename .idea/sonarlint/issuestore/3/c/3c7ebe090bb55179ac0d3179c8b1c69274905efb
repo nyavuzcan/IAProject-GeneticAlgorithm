@@ -1,0 +1,12 @@
+
+v
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¤ÑÛƒ8ÛÃ§ª¡.
+K
+java:S2140<")Use "java.util.Random.nextInt()" instead.(†ü“Æùÿÿÿÿ8Ï¶Àª¡.
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°€Òþÿÿÿÿ8ÚÌà©¡.
+:
+java:S2386"Make this member "protected".(…ÛïÉ8ÚÌà©¡.
+9
+java:S1116("Remove this empty statement.(•áÊç8ß´ª¡.
+v
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¥«Ÿ–8¿Ä©ª¡.
